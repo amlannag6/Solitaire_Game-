@@ -22,7 +22,7 @@ To move a card onto a tableau, the card must be one less than the card currently
 4. For each functionality, I made 4 different class as JAVA is object Oriented so separate file will be easy to call in any class.
 5. Used Exception method so that if player don’t follow the role – program will guide the user.
 
-      References
+    References:  
       
 A Case Study: Solitaire. (2017). Retrieved from A Case Study: Solitaire: https://www.it.uu.se/edu/course/homepage/oopjava/vt19/exempeltenta/exempel-090530/budd/solit.pdf
 Budd, T. (1996). Simple Solitaire Card Game in Java. Retrieved from Umb.Edu: https://www.cs.umb.edu/~laur/Java/Solitaire/Solitaire.java
