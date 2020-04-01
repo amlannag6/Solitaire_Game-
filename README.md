@@ -23,6 +23,7 @@ To move a card onto a tableau, the card must be one less than the card currently
 5. Used Exception method so that if player don’t follow the role – program will guide the user.
 
       References
+      
 A Case Study: Solitaire. (2017). Retrieved from A Case Study: Solitaire: https://www.it.uu.se/edu/course/homepage/oopjava/vt19/exempeltenta/exempel-090530/budd/solit.pdf
 Budd, T. (1996). Simple Solitaire Card Game in Java. Retrieved from Umb.Edu: https://www.cs.umb.edu/~laur/Java/Solitaire/Solitaire.java
 Java stacks simple solitaire. (2016). Retrieved from Stackoverflow: https://stackoverflow.com/questions/29024598/java-stacks-simple-solitaire
