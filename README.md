@@ -12,3 +12,17 @@ Recommended you use an ARRAY of 7 queues and another ARRAY of 7 stacks for this.
 You can only move the top card of any stack.
 To move a card to the foundation, the foundation must have the previous card already there. Example, you can't move 12D if 11D is not already in the foundation.
 To move a card onto a tableau, the card must be one less than the card currently showing on the target tableau AND the suit color must be opposite color than the card showing. Example, moving 7H on a tableau currently showing a 8S is allowed but you can't move 7H to a 8D (suit colors are both red). You can also move any card to the tableau if the tableau is empty (no cards in its stack or queue left).
+
+
+     Instructions for playing the Game :
+     
+1. CardGame.java is the main class.
+2. Including CardGame.java- 6 new Java Class created (To compile the program easily)
+3. Deck.java files used for program – Resource: John/ file provided
+4. For each functionality, I made 4 different class as JAVA is object Oriented so separate file will be easy to call in any class.
+5. Used Exception method so that if player don’t follow the role – program will guide the user.
+
+      References
+A Case Study: Solitaire. (2017). Retrieved from A Case Study: Solitaire: https://www.it.uu.se/edu/course/homepage/oopjava/vt19/exempeltenta/exempel-090530/budd/solit.pdf
+Budd, T. (1996). Simple Solitaire Card Game in Java. Retrieved from Umb.Edu: https://www.cs.umb.edu/~laur/Java/Solitaire/Solitaire.java
+Java stacks simple solitaire. (2016). Retrieved from Stackoverflow: https://stackoverflow.com/questions/29024598/java-stacks-simple-solitaire
